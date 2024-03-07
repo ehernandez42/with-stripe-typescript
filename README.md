@@ -1,3 +1,7 @@
+The following is a fork of Stripe with TypeScript example from Stripe Developers.
+Used in reference for my substack series on navigating Stripe with Next.js
+---
+
 # Example using Stripe with TypeScript and react-stripe-js
 
 This is a full-stack TypeScript example using:
